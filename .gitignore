@@ -1,0 +1,5 @@
+model-data/
+backup/
+*.user.*
+*.user
+android-rice_dtor-deployment-settings.json
